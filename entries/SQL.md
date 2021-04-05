@@ -1,0 +1,1 @@
+#SQL is a language which is used to interact with databases.
